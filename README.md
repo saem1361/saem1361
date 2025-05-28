@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- [🏦 Bank Referrals](https://example.com/bank-referrals)
 
 <!--
 **saem1361/saem1361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
